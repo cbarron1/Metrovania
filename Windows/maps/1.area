@@ -1,0 +1,5 @@
+./tilesets/metroidtileset.png
+3
+./maps/1.map ./maps/2.map ./maps/3.map 
+./maps/1.map ./maps/1.map ./maps/1.map 
+./maps/1.map ./maps/1.map ./maps/1.map 
