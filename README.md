@@ -52,8 +52,10 @@ Simon:
 	    Q: use whip
 
 	    A: taunt
-	 
-Press ESC to exit program
+	    
+General:
+
+	    Press ESC to exit program
 
 Issues
 ------
