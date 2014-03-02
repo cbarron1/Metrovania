@@ -14,9 +14,9 @@ Metrovania is a tribute to the classic games Super Metroid and Super Castlevania
 Installing
 ----------
 
-Before building the program the user will need to install the SDL, SDL\_image, and SDL\_mixer libraries. Apart from that, all that should be necessary is a C++ compiler. 
+To run on Windows, all that is needed is to download the Windows folder and run the executable inside.
 
-The user runs 'make' to build the program. It has been tested on both Ubuntu and Red Hat Enterprise Linux, but should work on other platforms as well. 
+To run on Linux, there are more steps involved. Before building the program the user will need to install the SDL, SDL\_image, and SDL\_mixer libraries. Apart from that, all that should be necessary is a C++ compiler. The user runs 'make' to build the program. It has been tested on both Ubuntu and Red Hat Enterprise Linux, but should work on other platforms as well. 
 
 Controls
 --------
